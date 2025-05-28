@@ -10,8 +10,8 @@ const Footer: React.FC = () => {
       }}
       links={[
         {
-          key: 'Ant Design Pro',
-          title: 'Ant Design Pro',
+          key: '超级管理中心',
+          title: '超级管理中心',
           href: 'https://pro.ant.design',
           blankTarget: true,
         },
